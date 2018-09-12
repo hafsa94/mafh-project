@@ -1,4 +1,4 @@
-class TestX(object):
+class TestGithubJobs(object):
 
     _SEARCH_PARAM = {"desc": {"description": "python"},
                      "loc": {"location": "new york"},
