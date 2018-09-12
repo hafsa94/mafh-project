@@ -1,0 +1,11 @@
+[
+  "mafh/test/test_1.py::TestX::()::test_01_search_by_description_results",
+  "mafh/test/test_1.py::TestX::()::test_02_search_by_location_results",
+  "mafh/test/test_1.py::TestX::()::test_03_search_by_type_results",
+  "mafh/test/test_1.py::TestX::()::test_04_search_by_description_n_location_results",
+  "mafh/test/test_1.py::TestX::()::test_05_search_by_description_n_type_results",
+  "mafh/test/test_1.py::TestX::()::test_06_search_by_location_n_type_results",
+  "mafh/test/test_1.py::TestX::()::test_07_search_by_description_location_n_type_results",
+  "mafh/test/test_1.py::TestX::()::test_08_jobs_count_50_per_page",
+  "mafh/test/test_1.py::TestX::()::test_09_verify_pagination"
+]
